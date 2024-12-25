@@ -16,12 +16,12 @@
 
 ### 2. 安装脚本
 - **方法一**：访问脚本发布平台 [GreasyFork](https://greasyfork.org/)，搜索并下载 **自动评教脚本（scut）** 脚本。
-	<img src="..\自动评教脚本（scut）\image-1.png" alt="image-20241225210459345" style="zoom: 50%;" />
+	<img src="..\自动评教脚本（scut）\image-1.png" alt="image-1" style="zoom: 50%;" />
 	
 	
 	
 - **方法二**：将[自动评教脚本](../自动评教脚本（scut）.js)复制粘贴到 Tampermonkey 插件中添加新脚本。
-	 <img src="..\自动评教脚本（scut）\image-2.png" alt="image-20241225211015421" style="zoom:45%;" />
+	 <img src="..\自动评教脚本（scut）\image-2.png" alt="image-2" style="zoom:45%;" />
 
 ### 3. 开启脚本
 - 确保在 Tampermonkey 的脚本管理页面中启用了脚本。
