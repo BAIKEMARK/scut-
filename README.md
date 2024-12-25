@@ -41,7 +41,7 @@
 2. **加载延迟**：脚本在页面加载完成后才会启动，可能需要等待 1 秒。
 3. **自定义功能**：如需调整反馈内容，可以直接修改脚本代码中 `selectAllOptions` 函数的模板部分。
 4. **更新提醒**：建议定期在 GreasyFork 检查脚本更新，以确保功能正常使用。
-5. **其他问题**：如脚本执行遇到任何问题可以F12打开浏览器控制台查看报错。如首次通过使用**Edge浏览器**使用油猴，可能会遇到**"Please enable developer mode to allow userscript injection. "**需要打开**Edge浏览器开发人员模式**才能使用
+5. **其他问题**：如脚本执行遇到任何问题可以F12打开浏览器控制台查看报错。如首次通过使用**Edge浏览器**使用油猴，可能会提示 **Please enable developer mode to allow userscript injection.** 这时需要打开**Edge浏览器开发人员模式**才能使用
 
 ---
 
