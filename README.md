@@ -16,7 +16,7 @@
 
 ### 2. 安装脚本
 - **方法一**：访问脚本发布平台 [GreasyFork](https://greasyfork.org/)，搜索并下载 **自动评教脚本（scut）** 脚本。
-	<img src="https://github.com/BAIKEMARK/scut-/blob/main/image-1.png" alt="image-1" style="zoom: 50%;" />
+	<img src="./image-1.png" alt="image-1" style="zoom: 50%;" />
 	
 	
 	
