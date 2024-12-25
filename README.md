@@ -21,7 +21,7 @@
 	
 	
 - **方法二**：将[自动评教脚本](../自动评教脚本（scut）.js)复制粘贴到 Tampermonkey 插件中添加新脚本。
-	 <img src=".../image-2.png" alt="image-2" style="zoom:45%;" />
+	 <img src="./image-2.png" alt="image-2" style="zoom:45%;" />
 
 ### 3. 开启脚本
 - 确保在 Tampermonkey 的脚本管理页面中启用了脚本。
